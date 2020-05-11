@@ -1,6 +1,5 @@
 # Sensor Fusion Self-Driving Car Course
 
-git clone :- https://github.com/neelgandhi108/Sensor_fusion_project_lidar
 
 <img src="media/ObstacleDetectionFPS.gif" width="700" height="400" />
 
@@ -64,3 +63,5 @@ NOTE: very old version
 [PCL Source Github](https://github.com/PointCloudLibrary/pcl)
 
 [PCL Mac Compilation Docs](http://www.pointclouds.org/documentation/tutorials/compiling_pcl_macosx.php)
+
+git clone :- https://github.com/neelgandhi108/Sensor_fusion_project_lidar
