@@ -1,5 +1,7 @@
 # Sensor Fusion Self-Driving Car Course
 
+git clone :- https://github.com/neelgandhi108/Sensor_fusion_project_lidar
+
 <img src="media/ObstacleDetectionFPS.gif" width="700" height="400" />
 
 ### Welcome to the Sensor Fusion course for self-driving cars.
